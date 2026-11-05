@@ -7,7 +7,6 @@
 - Quản lý danh mục, thương hiệu hàng hóa, giá nhập, số lượng, đơn vị tính, hạn sử dụng và vị trí kệ.
 - Quản lý nhân viên, phân quyền, tài khoản khách hàng và hồ sơ thành viên.
 - Khách hàng có thể tự đăng ký tài khoản, đăng nhập, xem sản phẩm, tạo yêu cầu mua hàng và gửi phản hồi.
-- Nhân viên thực hiện bán hàng tại quầy, lập hóa đơn, quản lý khách hàng và xem thống kê.
 - Theo dõi hàng lỗi, lịch sử xuất/nhập kho và thùng rác dữ liệu.
 
 ## Công nghệ
